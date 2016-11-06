@@ -4,3 +4,5 @@
 	echo "1changed";
 	echo "1changed";
 	echo "1changed";
+	
+	echo "noteda++ core";
