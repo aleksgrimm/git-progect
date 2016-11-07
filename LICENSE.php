@@ -6,3 +6,5 @@
 	echo "1changed";
 	
 	echo "noteda++ core";
+	
+	echo "It`s a beautifull day";

@@ -7,3 +7,5 @@
 	echo "Show must go on";
 	echo "Hello, Branch master!"
 	echo "Hello, Branch master!"
+	
+	echo "It`s a new day";
